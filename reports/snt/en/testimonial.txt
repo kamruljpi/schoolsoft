@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Testimonial</title>
+
+
+</head>
+<body>
+<div class="container"> 
+  <div class="testimonial-wrapper">
+      <section class="testimonial-header">
+        <div class="row m_bottom_20">
+            <div class="col-sm-2">
+                <img class="logo" src="images/logo.png">
+            </div> 
+            <div class="col-sm-10">
+                <h1>
+                  Dhaka High School
+                </h1>
+                <h4>
+                  Web : <span>www.dhakahighschool.gov.bd</span><br>
+                  E-mail : <span>dhakahighschool@gmail.com</span>
+                </h4>
+                <h4>
+                  Post Office : <span>Chowkibari,</span>Upozila: <span>Dhunat</span>
+                  District :<span> Bogra</span>
+                </h4>
+            </div>            
+        </div> 
+        <div class="row">
+          <div class="col-md-12">
+              <h1 class="text-center ">
+                <strong class="font_large"> Testimonial</strong>
+              </h1>
+          </div>
+         
+        </div>                 
+      </section>
+      <section class="testimonial-content">
+         <div class="row m_bottom_20">
+            <div class="col-md-6">
+              <p>
+                Roll No:<span>%%roll_no%%</span>
+              </p>
+              <p class="m_top_20">
+                Date of Birth:<span>%%birthday%%</span>
+              </p> 
+               
+            </div>
+            <div class="col-md-12">
+                We look forward to certify that <span>%%first_name%% %%last_name%%</span>
+                Mother <span>%%mother_name%%</span><br>
+
+               Father  <span>%%father_name%%</span>
+               Village <span>Jorkhali</span><br>
+
+                Post Office  <span>Chowkibari</span>
+               Upozila <span>Dhunat</span>
+               District <span>Nator</span><br>
+               Students of this institute.Only passed the Secondary school certificate Examination on the held of year 2013.
+               And result GPA 6.00.
+
+               He/Her did not perticipate any kind of crime opposed state and institute.<br>
+
+               <p class="m_top_20">He/Her is of good character.</p><br>
+
+               <p>I wish he/her ​​a bright future.</p>
+            </div>
+
+         </div>       
+           
+         
+
+          <div class="row m_top_100">
+              <div class="col-md-6">
+                Date:<span>%%today%%</span>
+              </div>
+              <div class="col-md-6 text-center">
+                   Headmaster <br>   
+                   Dhaka high School        
+              </div>
+          </div>
+      </section>
+    
+      
+
+  </div> 
+</div>
+</body>
+</html>

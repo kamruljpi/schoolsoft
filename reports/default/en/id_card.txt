@@ -1,0 +1,56 @@
+                   
+<div class="wrapper">
+  <div class="view-print">
+      <button onclick="javascript:window.print()" class="btn btn-primary"><span class="fa fa-print"></span> Print</button>
+      <button onclick="javascript:window.print()" class="btn btn-primary"><span class="fa fa-print"></span> Print preview </button>
+  </div>             
+  <section class="header_idcard m_top_20">
+    <div class="row">
+        <div class="col-sm-12">
+            <h1 class="header_title text-center">%%site_name%%</h1>
+        </div>
+    </div>        
+  </section>
+  <section class="content_idcard">
+    <div class="row">
+        <div class="col-sm-4 text-center">
+             <img class="img-responsive pull-right" src='%%studentPhoto%%'>
+           
+        </div>
+        <div class="col-sm-8">
+        <div class="student_info clearfix">
+              <label class="student_lebel"> Student Id :</label>
+              <div class="student_name">%%username%%</div>
+          </div>
+          <div class="student_info clearfix">
+              <label class="student_lebel"> Name :</label>
+              <div class="student_name">%%first_name%% %%last_name%%</div>
+          </div>
+          <div class="student_info clearfix">
+              <label class="student_lebel"> Guardian :</label>
+              <div class="student_name">%%guardian_first_name%%  %%guardian_last_name%%</div>
+          </div>
+          <div class="student_info clearfix">
+              <label class="student_lebel">Roll No :</label>
+              <div class="student_name">%%roll_no%%</div>
+          </div>
+          <div class="student_info clearfix">
+              <label class="student_lebel">Class :</label>
+              <div class="student_name">%%class_name%%</div>
+          </div>
+          
+          <div class="student_info clearfix">
+              <label class="student_lebel"> Contact No :</label>
+              <div class="student_name">%%phone%%</div>
+          </div>
+        </div>
+    </div> 
+  </section>
+  <section class="pricipal_sigdnature">
+      <div class="signature">Signature</div>
+      <div class="principal">Principal</div>
+  </section>
+  <section class="footer">
+      Address: %%site_address%%
+  </section>
+</div>

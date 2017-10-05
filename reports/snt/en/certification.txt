@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Certification</title>
+
+
+</head>
+<body>
+<div class="container"> 
+  <div class="certification-wrapper">
+      <section class="certification-header">
+        <div class="row m_bottom_20">
+            <div class="col-sm-2">
+                <img class="logo" src="images/logo.png">
+            </div> 
+            <div class="col-sm-10">
+                <h1>
+                  Board of Intermediate and Secondary Education of Dhaka
+                </h1>
+                <h4>
+                  Web : www.dhakaeducationboard.gov.bd<br>
+                  E-mail : dhakaeducationboard@gmail.com
+                </h4>
+            </div>            
+        </div> 
+        <div class="row">
+          <div class="col-md-12">
+              <h1 class="text-center ">
+                <strong class="font_large"> Application Form</strong>
+              </h1>
+          </div>
+          <div class="col-md-12 text-center m_top_30"> 
+          ( Student / student must fill out an application must be in English with their own hands , to cut unnecessary )
+              
+          </div>
+        </div>                 
+      </section>
+      <section class="certification-content">
+         <div class="row">
+          <div class="col-md-12">  
+                To,<br>
+                School inspector<br>
+                Secondary and Higher Secondary Education Board<br> Rajshahi
+                <strong class="subject"> Subject : Application for two- duplicate registration card instead registration English Certificate</strong><br>
+                Sir,<br>
+
+                Respectfully lost my original registration card / burnt / broken . Please double - copy of my registration card instead
+               Registration certificate is issued in English mode. 
+            </div>
+         </div>
+        
+           
+         <div class="row">
+              <div class="col-md-12">
+                  1. Name ( in English capitals ) : <span>%%first_name%% %%last_name%%</span><br>
+                  2. (i) Father Name ( in English capitals ) : <span>%%father_name%%</span><br>
+                  (ii) Mothers Name ( in English capitals ) : <span>%%mother_name%%</span><br>
+
+                  3. Institute Name : <span>Dhaka Boys School</span>
+                  Code : <span>334455</span>
+                  Post office : <span>Shantinagar</span>
+                  Upozila (with Code No) : <span>Shajahanppur(5678)</span>
+                  District (with Code No): <span>Dhaka(1)</span><br>
+                  4.Registration No(English):<span>%%roll_no%%</span>
+                  Year:<span>2011</span>
+                  Branch:<span>Malibugh</span><br>
+                    
+                  05.Date of Birth(English) : <span>%%birthday%%</span><br>
+                  
+                  06. Nationality:<span>Bangladeshi</span><br>
+                  07. Deposit Amount:<span>1000</span>
+                  Bank Name:<span>Sonali Bank</span>
+                  Draft No:<span>1000</span>
+                  Date:<span>%%today%%</span>
+                  <br>
+
+                  08. Present Address:<span>Village:batikabari</span>
+                  Post:<span>Chowkibari</span>
+                  Upozila:<span>Dhunat</span>
+                  District:<span>Bogra</span>
+                  <br>              
+
+              </div>              
+          </div>
+
+          <div class="row m_top_30">
+              <div class="col-md-6">
+                <p class="m_top_30">Certified</p><br>
+                Signature<br>
+                Chairman / Chief Medical<br>
+                Phone:01761-678990<br>
+                Email:example@gmail.com
+              </div>
+              <div class="col-md-6 text-center">
+                 I am announcing that , as stated above is correct and true information <br>
+
+                 <p class="m_top_30">Your loyal</p><br>
+
+                 Full name and signature of the applicant
+
+              </div>
+          </div>
+
+          <div class="row m_top_30">
+              <div class="col-md-12 underline text-center">       
+                  Redeemable by the accounting department     
+                  
+              </div>
+              <div class="col-md-12 m_top_30">       
+                  Serial number:<span>123</span>
+                  Date:<span>%%today%%</span><br>
+                  The deposit amount ( in words ):<span>One Thousand Taka Only</span><br>
+                  Draft No:<span>4321</span>
+                  Date:<span>%%today%%</span><br>
+                  <p class="m_top_20">Acknowledgment was made </p>                 
+              </div>
+
+              <div class="col-md-4 col-md-offset-8">      Signed and sealed
+              </div>
+              
+          </div>
+
+
+
+          <div class="row m_top_30">
+              <div class="col-md-12">       
+                 <p class="m_bottom_30 underline">
+                    <strong>Rules:</strong>
+                 </p> 
+                 <br>
+
+                  01 . <span>All types of bank fees through DD Secretary , Secondary and Higher Secondary Education Board ,
+                  To be submitted in favor of the country .</span><br>
+                  02.<span> Cash , postal order or invoice Treasury will not be accepted . </span><br>
+                  03. <span>Two-duplicate registration card to the applicant for the English daily newspaper rejih academic certificates,
+                  Branch, registration number, name of the educational institution, etc., mentioning the name of the board must be notified.
+                  Notice the original registration card is missing / damaged etc. must be burned. Cutting with the application notice
+                  And the police will have to submit a copy of the GD.</span><br>
+                  04 . <span>Secretary of the Board duly filled applications by foreign nagarikaganake acceptable bank draft in favor of their own
+                  His government, through the Ministry of Education will send .</span><br>
+                  05. <span>Incomplete applications will be canceled and unsound .</span><br>
+                  06.<span> Fee 1,000.00 ( one thousand ) TK .</span>
+
+                  <p class="m_top_100">Note: the previous two - 1995-1996 academic year will not received a copy of the registration card applications .</p>
+                  
+              </div>           
+              
+          </div>
+
+
+          <div class="row m_top_100 text-center">
+              <div class="col-md-4 col-md-offset-8 ">       
+                  School inspector<br>
+                  Secondary and Higher Secondary Education Board<br>
+                   Rajshahi 
+              </div>          
+              
+          </div>
+
+
+
+
+
+      </section>
+    
+      
+
+  </div> 
+</div>
+</body>
+</html>

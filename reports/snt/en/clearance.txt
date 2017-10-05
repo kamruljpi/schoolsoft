@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Clearance</title>
+
+
+</head>
+<body>
+<div class="container"> 
+  <div class="clearance-wrapper">
+      <section class="clearance-header">
+        <div class="row m_bottom_20">
+            <div class="col-sm-2">
+                <img class="logo" src="images/logo.png">
+            </div> 
+            <div class="col-sm-10">
+                <h1>
+                  Board of Intermediate and Secondary Education of Dhaka
+                </h1>
+                <h4>
+                  Web : www.dhakaeducationboard.gov.bd<br>
+                  E-mail : dhakaeducationboard@gmail.com
+                </h4>
+            </div>            
+        </div> 
+        <div class="row">
+          <div class="col-md-12">
+              <h1 class="text-center">
+                <strong class="font_large"> " Clearance Form "</strong>
+              </h1>
+          </div>
+        </div>                 
+      </section>
+      <section class="clearance-content">
+          <p>
+            <strong class="font_medium">Principal( Present College ):</strong><br>
+            Goshaibari Degree college, 
+            Code No: <span>3456</span> 
+            EIN No:<span>78654</span><br>
+
+            Post Office:<span>Chowkibari </span>
+            Upozila:<span>Dhunat</span> 
+            District:<span>Bogra</span>
+          </p>
+       
+          <p>
+            <strong class="font_medium">Principal( Interested College ):</strong><br>
+
+            Goshaibari Degree college, 
+            Code No: <span>3456</span> 
+            EIN No:<span>78654</span><br>
+
+            Post Office:<span>Chowkibari </span>
+            Upozila:<span>Dhunat</span> 
+            District:<span>Bogra</span>
+          </p>
+
+          <strong class="subject"> Subject : Application for Clearence</strong><br>
+          Sir,<br>
+          Respectfully that I am "%%first_name%% %%last_name%%" currently A regular college student.Below the
+                  
+
+        
+      </section>
+
+      <section class="essential">          
+          <h1 class="font_large text-center"> " Essentioal Information "</h1> 
+          <div class="row">
+              <div class="col-md-12">
+                  1. Name : <span>%%first_name%% %%last_name%%</span><br>
+                  2. Father Name : <span>%%father_name%%</span><br>
+                  3. Division : <span>Science</span>
+                  Class : <span>%%class_name%%</span>
+                  Class Roll : <span>%%roll_no%%</span><br>
+                  Year : <span>2011-2012</span>
+                  CGPA : <span>5.00</span><br>
+                  4.Text of:<br>
+                    1) Bangla, 2) English, 3) Information Technology, 4)Islam, 5)Socail Science, 6)General Science,(Islam).<br>
+                  05.SSC Roll No : <span>123456</span>
+                  Passing Year : <span>2008</span>
+                  Board : <span>Rajshahi</span><br>
+                  06. Reason:<span>( Protector of the transfer / inevitable / reasons associated with the application documents must be documented )</span><br>
+                  07. Studens Signature:<br>
+                 
+
+              </div>
+              
+          </div>
+          <div class="row">
+              <div class="col-md-6">
+                 08. <strong>Principal Recommendation(Present college)</strong><br> 
+                 Permission is given on the board letter.
+              </div>
+              <div class="col-md-6 text-center">
+                  <strong>Principal Recommendation(Interested college)</strong><br>
+                  College applicants are reading this .
+                  If the law can be filled in accordance with the clearance 
+
+              </div>
+          </div>
+
+
+          <div class="row m_top_140">
+              <div class="col-md-6 text-center">                 
+                  Principal's signature and  date<br>
+                  Seal seal
+              </div>
+              <div class="col-md-6 text-center">                
+                  Principal's signature and date <br>
+                  Seal seal
+              </div>
+          </div>
+
+          <div class="row m_top_140">
+              <div class="col-md-12 m_bottom_20">                
+                  Memorandum No:<span>65656<span>
+                  Date:<span>%%today%%<span>
+              </div>
+
+            <div class="col-md-12"> 
+              <strong class="font_medium">Principal( Present College ):</strong><br>
+              Goshaibari Degree college, 
+              Code No: <span>3456</span> 
+              EIN No:<span>78654</span><br>
+
+              Post Office:<span>Chowkibari </span>
+              Upozila:<span>Dhunat</span> 
+              District:<span>Bogra</span><br>
+
+              <p class="allow">The application is allowed to consider the issue of certificates.</p>
+          </div>             
+        </div>
+
+         <div class="row">
+            <div class="col-md-5 col-md-offset-7 text-center">
+              Assistant inspector<br>
+              Secondary and Higher Secondary Education Board<br>
+              Dhaka
+            </div>
+         </div>
+
+
+         <div class="row m_top_140">
+              <div class="col-md-12 m_bottom_20">
+                   Memorandum No:<span>65656<span>
+                  Date:<span>%%today%%<span>
+              </div>
+              <div class="col-md-12 m_bottom_20">
+                  Copy Cognition
+              </div>
+
+            <div class="col-md-12"> 
+              <strong class="font_medium">1. Principal( Interested College ):</strong><br>
+              Goshaibari Degree college, 
+              Code No: <span>3456</span> 
+              EIN No:<span>78654</span><br>
+
+              Post Office:<span>Chowkibari </span>
+              Upozila:<span>Dhunat</span> 
+              District:<span>Bogra</span><br>
+
+              <p class="allow">Approval has been granted by the admissions.</p>
+
+              2.Inspector of Colleges, Secondary and Higher Secondary Education Board , Dhaka / Comilla / Jessore / Division / country / Khulna / Rajshahi<br>
+              3. Controller of Examinations , Secondary and Higher Secondary Education Board , Dhaka <br>
+              4. Systems Analyst, Computer Centre , Secondary and Higher Secondary Education Board , Rajshahi <br>
+              5. Student signature<br>
+
+          </div>             
+        </div>
+
+        <div class="row">
+            <div class="col-md-5 col-md-offset-7 text-center">
+              Assistant inspector<br>
+              Secondary and Higher Secondary Education Board<br>
+              Dhaka
+            </div>
+         </div>
+
+
+         <div class="row">
+            <div class="col-md-12">
+                <strong class="font_medium">NB:</strong><br>
+                1.02 (two) copies pasport type picture  must be submitted with application<br>
+                02.1000 / - ( One thousand ), bank draft to be submitted.
+            </div>
+         </div>
+
+
+
+      </section>
+    
+      
+
+  </div> 
+</div>
+</body>
+</html>

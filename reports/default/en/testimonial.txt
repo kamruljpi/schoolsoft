@@ -1,0 +1,70 @@
+
+ 
+  <div class="wrapper-marks custom_row m_top_20">
+    <div class="view-header-report">
+      <button onclick="javascript:window.print()" class="btn btn-primary"><span class="fa fa-print"></span> Print</button>
+      <button onclick="javascript:window.print()" class="btn btn-primary"><span class="fa fa-print"></span> Print preview </button>
+  </div> 
+      <section class="testimonial_section m_top_20">
+         <div class="header_institute text-center">
+                <h1 class="header_title">
+                  %%site_name%%
+                </h1>
+                <h4 class="header_sub_title">
+                  E-mail : <span>%%site_email%%</span>
+                </h4>
+                <h4 class="header_sub_title">
+                %%site_address%%
+                </h4>
+                    
+        </div> 
+        
+          <h3 class="testimonial text-center m_top_test">
+                  <strong class="font_large"> Testimonial</strong>
+          </h3>
+                        
+     
+            <div class="col-md-6">
+                <p class="font_bold">
+                  Roll No:<span>%%roll_no%%</span>
+                </p>
+                
+                 
+            </div>
+            <div class="col-md-6">               
+                <p class="text-right font_bold">
+                  Date of Birth:<span>%%birthday%%</span>
+                </p> 
+                 
+            </div>
+
+            <div class="col-md-12">
+                We look forward to certify that <span>%%first_name%% %%last_name%%</span>
+                Mother <span>%%mother_name%%</span><br>
+
+               Father  <span>%%father_name%%</span>
+               Address <span>%%student_address%%</span><br>
+               student of this institute.Only passed the Secondary school certificate Examination on the held of year 2013.
+               And result GPA 6.00.
+
+               He/Her did not perticipate any kind of crime opposed state and institute.<br>
+
+               <p class="m_top_20">He/Her is of good character.</p><br>
+
+               <p>I wish he/her ​​a bright future.</p>
+            </div>
+
+            
+           
+         
+
+              <div class="col-md-6">
+                Date:<span>%%today%%</span>
+              </div>
+              <div class="col-md-6 text-right">
+                   Headmaster <br>   
+                   %%site_name%%
+              </div>
+         
+      </section>
+  </div>

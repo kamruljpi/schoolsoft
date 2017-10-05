@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Transfer Certificat</title>
+
+
+</head>
+<body>
+<div class="container"> 
+  <div class="tc-wrapper">
+      <section class="tc-header">
+        <div class="row m_bottom_20">
+            <div class="col-sm-2">
+                <img class="logo" src="images/logo.png">
+            </div> 
+            <div class="col-sm-10">
+                <h1>
+                 Secondary and Higher Secondary Education Board, Dhaka.
+                </h1>
+                <h4>
+                  Web : www.dhakaeducationboard.gov.bd<br>
+                  E-mail : dhakaeducationboard@gmail.com
+                </h4>
+            </div>            
+        </div> 
+        <div class="row">
+          <div class="col-md-12">
+              <h1 class="text-center">
+                <strong class="font_large"> Application Form</strong>
+              </h1>
+          </div>
+        </div>                 
+      </section>
+      <section class="tc-content">
+          To<br>
+          Assistant inspector<br>
+Secondary and Higher Secondary Education Board ,
+Sylhet .
+          
+       <br>
+            <p class="m_top_20 font_large">        
+                Subject: %%application_subject%%.
+            </p>
+
+            <br>
+            Sir,<br>
+            Gentle request , I am a regular student of class XII . No. 4 kramike clearance permission of the Board , I want to study in college reported . Please obliged my request will be granted.<br>
+
+            <center class="m_top_20">
+                <strong>Personal Information</strong> 
+            </center><br>
+
+            1. Name :<span>%%first_name%% %%last_name%%</span><br>
+            2. (a) Fathers name: <span>%%father_name%%</span><br>
+            (b) Mothers Name: <span>%%mother_name%%</span> <br>
+            3. Present Address: <span>%%address%%</span><br>
+            4. Interested College Name: <span>Djaka Collge</span>  EIN: <span>5467</span><br>
+            5. Roll No SSC: <span>%%roll_no%%</span> Passing Year <span>2013</span> Board <span>Rajshashi</span><br>
+            6. College Class Roll <span> 45</span> Division <span>Science</span><br>
+            ৭. Subjects: <br>
+            Mandatory (১) Bangla (২) Englsih<br>
+            Optional: 
+            (১)  IT Code: 32 (২)Biology: 45
+            (৩) Geogrophy: 43 (৪) Fourth Subject: Agriculture: 98<br>
+            ৮. Why receiving clearanceঃ <span>As famous College</span> <br>
+            ৯. Present Address:<span>Gulbagh, Dhaka</span> <br>
+            ১০. Bank Draft No: <span>42342</span> Date: <span>10.10.2011</span> Sonali Bank <span>Malibhgh Branch</span> <br>
+            <p class="m_top_70 text-right">
+               Student's full name and signature
+            </p>
+
+            <p class="m_top_70">
+            <strong class="font_medium">Principal( Present College ) Certification:</strong><br>
+
+            He/she is regular student of this college in <span>2012.</span> 
+
+            In the bellow 7  number point stated in the registration of his name have been taken on board.
+
+            We did not send for the registration name of the student any other college without this college.
+            The student learning does not have no restrictions 
+            from any Board.
+
+            The applicant SSC / equivalent transcript are stored in the board .
+                <br>
+            </p>
+            <p class="m_bottom_20">
+            Certified all the matter are true and correct.             
+            The certificate will be issued to allow the board</p><br>
+
+            <p class="m_top_70 text-right">
+                Principal's signature and seal
+            </p>
+
+            <p class="m_top_70">
+            <strong class="font_medium">Principal( Interested College ) Certification:</strong><br>
+
+            The Board is allocate 50 seats Science division in the year 2001 against the 47  students studying there since the 48th consecutive -1 described as a point of 7 . So that transfer certificate is recommended for the student.
+
+         
+            </p>
+            <p class="m_top_70 text-right">
+               Principal's signature and seal
+            </p>
+           <p class="m_top_70 text-center">         
+            Important instructions<br>
+            </p>
+           <p>
+           1.The  student registration must be completed at present college . Never approval of the newly enrolled in college can not be done .<br>
+
+            2.
+Irregular students are not allowed to change the the college
+            <br>
+            3.Determined by the Board to be vacant at the beginning of the academic / subject to the approval shall be admitted , but the number of students enrolled through the clearance 2012 on no account must not exceed 10% of the admission of students . Approval can not be admitted to the additional number of seats in any way .
+            <br>
+            .4 How many students at each college admissions permission recommends the approval by the Registrar and shall specify the number of students taking admission in the Principal Register to authenticate.
+            <br>
+            5.Clearance documentary with draws taking the documents with the application must be submitted . Due to the change of residence to receive clearance from the relevant area Councillor / Chairman of the residence certificate with the application must be submitted.
+            <br>
+            6. Application must be submited SSC marksheet/Academic transcription.
+           <br>
+
+         7.Application must be submited Eleventh and twelfth marksheet.<br>
+
+            8. Bank draft fees 600.00 ( six hundred ) in any branch of the Sonali bank din favor of the Board's Secretary ( Secretary , BISE- Dhjaka) to be submitted .
+
+            <br>
+            9.Application must be reach in 10/10/2013 to 15/10/2013 to the Board isnpector with both Principal recomdation.
+            Note that both the Principal and the receipt of the recommendation of no more than three ( 3 ) working days of the application should be submitted to the board . After the specified time, the principal of clearance would not sign the Application Form.
+            <br>
+
+
+           11. Admission must me finished with in fifteen days(15) to issue in order to Board Approval.
+           After Complete admission must be inform Board.
+            Student must be submited Bank draft, SIS, and registration card.
+            <br>
+
+
+            12.students who do not need prior approval of the Board Whose Father/Mother servic in Government / semi-government / institutions.
+            In this case transferred officers / employees of the company transfer permit to be displayed can be cleared and the children of employees transferred to work in the new workplace institution can be admitted.
+            
+In this case , the college authorities for admission of students enrolled , 15 ( fifteen ) days of the registration fee must be submitted with the required documents to the Education Board
+
+            <br>
+          13. Principal's signature on taking the necessary documents, including bank drafts and sub-branches of the college application assistant inspector will have to be verified. The application must be submitted to the account.
+
+           <br>
+            14.Student its approval of the Board in order to be collected. For www.example.gov.bd of the College Order - and then click on Transfer Certificate-. Then, the TN (Tracking Number) that will see the student's own Print command
+            </p>
+            <div class="row m_top_70 text-center">
+                <div class="col-md-4 col-md-offset-8 ">
+                   <p class="m_top_20"> Signature</p><br>
+
+                    Assistant inspector <br>
+
+                    Secondary and Higher Secondary Education Board, Sylhet. 
+.<br>
+                    Phone : 01765-0988765 (office)  <br>
+                    Email: info@boardname.gov.bd
+                </div>
+            </div>
+           
+          
+
+           
+         </section>
+    
+      
+
+  </div> 
+</div>
+</body>
+</html>

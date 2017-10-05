@@ -1,0 +1,89 @@
+
+   <div class="view-print m_top_20">
+      <button onclick="javascript:window.print()" class="btn btn-primary"><span class="fa fa-print"></span> Print</button>
+      <button onclick="javascript:window.print()" class="btn btn-primary"><span class="fa fa-print"></span> Print preview </button>
+  </div> 
+  <div class="admit-wrapper">
+
+      <section class="heade-common">
+        <div class="row">            
+            <div class="col-sm-12 text-center">
+                <h1 class="header_title">%%site_name%%</h1>
+            </div>
+        </div>        
+
+        <div class="row">
+            <div class="col-sm-12 text-center">
+                <h3 class="admit_title">Admid Card</h3>                
+            </div>
+        </div> 
+
+        <div class="row exam_name">
+            <div class="col-md-12 text-center">
+                <strong>Exam Name :</strong> 
+                <strong>%%examination_name%%</strong>
+             
+            </div>
+         </div>       
+      </section>
+
+      <section>        
+        <div class="row m_top_40">            
+            <div class="col-sm-8">
+             <div class="student_info clearfix">
+                  <label class="admin_lebel">Roll No </label>
+                  <div class="student_name">: 
+                      <span>%%roll_no%%</span>
+                  </div>
+              </div>  
+              <div class="student_info clearfix">
+                  <label class="admin_lebel"> Class </label>
+                  <div class="student_name">: 
+                    <span> %%class_name%%</span>
+                  </div>
+              </div>
+              <div class="student_info clearfix">
+                  <label class="admin_lebel"> Name </label>
+                  <div class="student_name">: 
+                      <span>%%first_name%% %%last_name%%</span>
+                  </div>
+              </div> 
+
+              <div class="student_info clearfix">
+                  <label class="admin_lebel"> Father Name </label>
+                  <div class="student_name">: 
+                      <span>%%father_name%%</span>
+                  </div>
+              </div>  
+
+              <div class="student_info clearfix">
+                  <label class="admin_lebel"> Mothers Name </label>
+                  <div class="student_name">: 
+                      <span>%%mother_name%%</span>
+                  </div>
+              </div>            
+             
+
+              
+            </div>
+            <div class="col-sm-4">
+                <img class="img-responsive st_img pull-right" src='%%studentPhoto%%'/>
+            </div>
+            
+        </div> 
+
+        <div class="row m_top_60">
+            <div class="col-md-6">
+                Signature<br>
+                Head master
+            </div>
+            <div class="col-md-6 text-right">
+                Signature<br>
+                Candidate
+            </div>            
+        </div>
+
+        
+      </section>
+
+  </div>

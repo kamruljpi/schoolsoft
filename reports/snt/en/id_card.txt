@@ -1,0 +1,49 @@
+<div class="wrapper">
+  <section class="header">
+    <div class="row">
+        <div class="col-sm-2">
+            <img class="logo" src="images/logo.png">
+        </div>
+        <div class="col-sm-10">
+            <h1>aaaaaaaaaaa School</h1>                
+        </div>
+    </div>        
+  </section>
+  <section class="content">
+    <div class="row">
+        <div class="col-sm-4 text-center">
+            <img class="img-responsive" src="reports/images/student.png">
+        </div>
+        <div class="col-sm-8">
+        <div class="student_info clearfix">
+              <label class="student_lebel"> Student Id :</label>
+              <div class="student_name">%%username%%</div>
+          </div>
+          <div class="student_info clearfix">
+              <label class="student_lebel"> Name :</label>
+              <div class="student_name">%%first_name%% %%last_name%%</div>
+          </div>
+          <div class="student_info clearfix">
+              <label class="student_lebel"> Guardian :</label>
+              <div class="student_name">%%guardian_first_name%%  %%guardian_last_name%%</div>
+          </div>
+          <div class="student_info clearfix">
+              <label class="student_lebel">Roll No :</label>
+              <div class="student_name">%%roll_no%%</div>
+          </div>
+         
+          <div class="student_info clearfix">
+              <label class="student_lebel"> Contact No :</label>
+              <div class="student_name">%%phone%%</div>
+          </div>
+        </div>
+    </div> 
+  </section>
+  <section class="pricipal_sigdnature">
+      <div class="signature">Signature</div>
+      <div class="principal">Principal</div>
+  </section>
+  <section class="footer">
+      Address: Slaho neer, 222, Gulbagh, Malibagh, Dhaka-1217.
+  </section>
+</div>
